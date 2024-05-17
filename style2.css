@@ -1,0 +1,51 @@
+a1{
+
+}
+
+.a2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+}
+.a3{
+    background-color: #ffffff;
+    border: 1px solid #ddd; /* Add a border for better visibility */
+    padding: 20px;
+    border-radius: 8px; /* Optional: Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+    width: 400px;  
+}
+
+.a4{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.a5{
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.a6{
+    display: flex;
+    white-space: ;
+    
+}
+.a7{
+    background-color: #042baa; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 170px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.a8{
+    padding: 8px ;
+}
